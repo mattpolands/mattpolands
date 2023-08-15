@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Matt, and I am a clinician and an aspiring data scientist. 
+I'm Matt, and I am a Clinician and an aspiring Data Scientist and Researcher. 
 
-I have spent hundreds of hours studying elements of the field (Data Scientist with Python in datacamp, Python for Data Science and Machine Learning, Complete SQL, and Master Git with Pierian Training, Math for Data Science Masterclass with Krista King and Jose Portilla).  
+I have spent hundreds of hours studying data science and have completed several certifications (Data Scientist with Python in [datacamp](https://www.datacamp.com/portfolio/matthewdpoland), Python for Data Science and Machine Learning, Math for Data Science Masterclass, Complete SQL, and Master Git).  
 
-My knowledge has undoubtedly grown, but at times I have found myself unnerved at the mere scope of information tied to data science. An overwhelmed brain is a scattered one. The goal of this hub is to help synthesize all of these amazing resources so that I can grow from a novice to an intermediate. 
+The goal of this hub is to synthesize my knowledge so that I can grow from a novice to an intermediate. 
 
 My GitHub page is currently a work in progress. My [GitHub Gist](https://gist.github.com/mattpolands) maps out my data science path and currently showcases the top-shelf education that I have received from [Pierian Training](https://pieriantraining.com/learn/python-for-machine-learning/) as well as countless other generous and brillant researchers, analysts, scientists, and mathematicians.
 
